@@ -45,7 +45,7 @@ The data preparation process includes:
 6. Checking for inconsistent or invalid values
 7. Preparing the cleaned dataset for analysis
 
-## 📈 Analysis Areas
+## Analysis Areas
 
 The project explores several business questions, including:
 
@@ -56,7 +56,7 @@ The project explores several business questions, including:
 - Are there noticeable regional or category-level differences?
 - What trends could influence inventory and sales planning?
 
-## 💡 Business Applications
+##  Business Applications
 
 The insights from this analysis can support:
 
@@ -67,7 +67,7 @@ The insights from this analysis can support:
 - **Revenue Optimization** — identifying areas of stronger commercial performance
 - **Business Forecasting** — using historical patterns to support future planning
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Building-Materials-Analytics/
