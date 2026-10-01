@@ -1,12 +1,12 @@
 # Building Materials Transactions Analysis
 
-## 📊 Project Overview
+##  Project Overview
 
 This project analyzes **building materials transaction data** to identify sales patterns, product performance, customer behavior, and business trends. The project uses data cleaning, exploratory data analysis, and business analytics techniques to transform raw transaction data into actionable insights.
 
 The analysis is designed as a **Business Analytics portfolio project**, demonstrating the use of data preparation, descriptive analytics, and data-driven decision-making.
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze building materials transaction patterns
 - Identify top-performing products and categories
@@ -15,7 +15,7 @@ The analysis is designed as a **Business Analytics portfolio project**, demonstr
 - Detect potential patterns and anomalies in transaction data
 - Generate insights that can support inventory, pricing, and sales decisions
 
-## 📁 Dataset
+## Dataset
 
 The repository contains:
 
@@ -24,7 +24,7 @@ The repository contains:
 
 The cleaned dataset contains structured transaction-level information related to building materials sales.
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - **Python**
 - **Pandas** — data cleaning and manipulation
@@ -33,7 +33,7 @@ The cleaned dataset contains structured transaction-level information related to
 - **Jupyter Notebook** — analysis and documentation
 - **GitHub** — project version control and portfolio presentation
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 The data preparation process includes:
 
@@ -81,7 +81,7 @@ Building-Materials-Analytics/
 └── requirements.txt
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 Clone the repository:
 
@@ -109,7 +109,7 @@ jupyter notebook
 
 Open the analysis notebook and run the cells sequentially.
 
-## 📌 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -121,7 +121,7 @@ Open the analysis notebook and run the cells sequentially.
 - Business Problem Solving
 - Data-Driven Decision Making
 
-## 👤 Author
+##  Author
 
 **Jahaan Kachwala**
 
@@ -129,6 +129,6 @@ Business Analytics | Marketing Analytics | Data Analytics
 
 ---
 
-## 📄 Disclaimer
+##  Disclaimer
 
 This project is intended for **educational and portfolio purposes**. The analysis and conclusions are based on the available dataset and should not be treated as actual business recommendations without additional validation and business context.
